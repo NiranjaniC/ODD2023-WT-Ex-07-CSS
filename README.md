@@ -1,4 +1,6 @@
 # Ex-07-CSS
+Name: Niranjani.C
+Registration Number: 212223220069
 # Ex-07(i)-CSS
 ### AIM
 Using CSS media queries, modify the webpage's color scheme with the following requirements:
